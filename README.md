@@ -1,0 +1,2 @@
+# arduino_ds3231_sample
+Arduino使用DS3231作为RTC的高考倒计时例程
